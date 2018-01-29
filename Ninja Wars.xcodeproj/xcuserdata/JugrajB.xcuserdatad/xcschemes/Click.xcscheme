@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "498438C21E83037700A7A322"
-               BuildableName = "Click.app"
-               BlueprintName = "Click"
-               ReferencedContainer = "container:Click.xcodeproj">
+               BuildableName = "Ninja Wars.app"
+               BlueprintName = "Ninja Wars"
+               ReferencedContainer = "container:Ninja Wars.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "498438DC1E83037800A7A322"
-               BuildableName = "ClickTests.xctest"
-               BlueprintName = "ClickTests"
-               ReferencedContainer = "container:Click.xcodeproj">
+               BuildableName = "Ninja WarsTests.xctest"
+               BlueprintName = "Ninja WarsTests"
+               ReferencedContainer = "container:Ninja Wars.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "498438E71E83037800A7A322"
-               BuildableName = "ClickUITests.xctest"
-               BlueprintName = "ClickUITests"
-               ReferencedContainer = "container:Click.xcodeproj">
+               BuildableName = "Ninja WarsUITests.xctest"
+               BlueprintName = "Ninja WarsUITests"
+               ReferencedContainer = "container:Ninja Wars.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "498438C21E83037700A7A322"
-            BuildableName = "Click.app"
-            BlueprintName = "Click"
-            ReferencedContainer = "container:Click.xcodeproj">
+            BuildableName = "Ninja Wars.app"
+            BlueprintName = "Ninja Wars"
+            ReferencedContainer = "container:Ninja Wars.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "498438C21E83037700A7A322"
-            BuildableName = "Click.app"
-            BlueprintName = "Click"
-            ReferencedContainer = "container:Click.xcodeproj">
+            BuildableName = "Ninja Wars.app"
+            BlueprintName = "Ninja Wars"
+            ReferencedContainer = "container:Ninja Wars.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "498438C21E83037700A7A322"
-            BuildableName = "Click.app"
-            BlueprintName = "Click"
-            ReferencedContainer = "container:Click.xcodeproj">
+            BuildableName = "Ninja Wars.app"
+            BlueprintName = "Ninja Wars"
+            ReferencedContainer = "container:Ninja Wars.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

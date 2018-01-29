@@ -7,16 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		496AEE351E83402D00416CFA /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496AEE341E83402D00416CFA /* GameOverScene.swift */; };
 		498438C71E83037700A7A322 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498438C61E83037700A7A322 /* AppDelegate.swift */; };
-		498438C91E83037700A7A322 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 498438C81E83037700A7A322 /* GameScene.sks */; };
-		498438CB1E83037700A7A322 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 498438CA1E83037700A7A322 /* Actions.sks */; };
-		498438CD1E83037700A7A322 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498438CC1E83037700A7A322 /* GameScene.swift */; };
 		498438CF1E83037700A7A322 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498438CE1E83037700A7A322 /* GameViewController.swift */; };
 		498438D21E83037700A7A322 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 498438D01E83037700A7A322 /* Main.storyboard */; };
 		498438D41E83037700A7A322 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 498438D31E83037700A7A322 /* Assets.xcassets */; };
 		498438D71E83037700A7A322 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 498438D51E83037700A7A322 /* LaunchScreen.storyboard */; };
 		498438E21E83037800A7A322 /* ClickTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498438E11E83037800A7A322 /* ClickTests.swift */; };
 		498438ED1E83037800A7A322 /* ClickUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498438EC1E83037800A7A322 /* ClickUITests.swift */; };
+		498438FD1E83083B00A7A322 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498438FC1E83083B00A7A322 /* GameScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,22 +36,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		498438C31E83037700A7A322 /* Click.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Click.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		496AEE341E83402D00416CFA /* GameOverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverScene.swift; sourceTree = "<group>"; };
+		498438C31E83037700A7A322 /* Ninja Wars.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ninja Wars.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		498438C61E83037700A7A322 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		498438C81E83037700A7A322 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		498438CA1E83037700A7A322 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
-		498438CC1E83037700A7A322 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		498438CE1E83037700A7A322 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		498438D11E83037700A7A322 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		498438D31E83037700A7A322 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		498438D61E83037700A7A322 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		498438D81E83037700A7A322 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		498438DD1E83037800A7A322 /* ClickTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClickTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		498438DD1E83037800A7A322 /* Ninja WarsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ninja WarsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		498438E11E83037800A7A322 /* ClickTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickTests.swift; sourceTree = "<group>"; };
 		498438E31E83037800A7A322 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		498438E81E83037800A7A322 /* ClickUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClickUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		498438E81E83037800A7A322 /* Ninja WarsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ninja WarsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		498438EC1E83037800A7A322 /* ClickUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickUITests.swift; sourceTree = "<group>"; };
 		498438EE1E83037800A7A322 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		498438FC1E83083B00A7A322 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,9 +91,9 @@
 		498438C41E83037700A7A322 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				498438C31E83037700A7A322 /* Click.app */,
-				498438DD1E83037800A7A322 /* ClickTests.xctest */,
-				498438E81E83037800A7A322 /* ClickUITests.xctest */,
+				498438C31E83037700A7A322 /* Ninja Wars.app */,
+				498438DD1E83037800A7A322 /* Ninja WarsTests.xctest */,
+				498438E81E83037800A7A322 /* Ninja WarsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -104,14 +102,13 @@
 			isa = PBXGroup;
 			children = (
 				498438C61E83037700A7A322 /* AppDelegate.swift */,
-				498438C81E83037700A7A322 /* GameScene.sks */,
-				498438CA1E83037700A7A322 /* Actions.sks */,
-				498438CC1E83037700A7A322 /* GameScene.swift */,
 				498438CE1E83037700A7A322 /* GameViewController.swift */,
 				498438D01E83037700A7A322 /* Main.storyboard */,
 				498438D31E83037700A7A322 /* Assets.xcassets */,
+				498438FC1E83083B00A7A322 /* GameScene.swift */,
 				498438D51E83037700A7A322 /* LaunchScreen.storyboard */,
 				498438D81E83037700A7A322 /* Info.plist */,
+				496AEE341E83402D00416CFA /* GameOverScene.swift */,
 			);
 			path = Click;
 			sourceTree = "<group>";
@@ -137,9 +134,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		498438C21E83037700A7A322 /* Click */ = {
+		498438C21E83037700A7A322 /* Ninja Wars */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 498438F11E83037800A7A322 /* Build configuration list for PBXNativeTarget "Click" */;
+			buildConfigurationList = 498438F11E83037800A7A322 /* Build configuration list for PBXNativeTarget "Ninja Wars" */;
 			buildPhases = (
 				498438BF1E83037700A7A322 /* Sources */,
 				498438C01E83037700A7A322 /* Frameworks */,
@@ -149,14 +146,14 @@
 			);
 			dependencies = (
 			);
-			name = Click;
+			name = "Ninja Wars";
 			productName = Click;
-			productReference = 498438C31E83037700A7A322 /* Click.app */;
+			productReference = 498438C31E83037700A7A322 /* Ninja Wars.app */;
 			productType = "com.apple.product-type.application";
 		};
-		498438DC1E83037800A7A322 /* ClickTests */ = {
+		498438DC1E83037800A7A322 /* Ninja WarsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 498438F41E83037800A7A322 /* Build configuration list for PBXNativeTarget "ClickTests" */;
+			buildConfigurationList = 498438F41E83037800A7A322 /* Build configuration list for PBXNativeTarget "Ninja WarsTests" */;
 			buildPhases = (
 				498438D91E83037800A7A322 /* Sources */,
 				498438DA1E83037800A7A322 /* Frameworks */,
@@ -167,14 +164,14 @@
 			dependencies = (
 				498438DF1E83037800A7A322 /* PBXTargetDependency */,
 			);
-			name = ClickTests;
+			name = "Ninja WarsTests";
 			productName = ClickTests;
-			productReference = 498438DD1E83037800A7A322 /* ClickTests.xctest */;
+			productReference = 498438DD1E83037800A7A322 /* Ninja WarsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		498438E71E83037800A7A322 /* ClickUITests */ = {
+		498438E71E83037800A7A322 /* Ninja WarsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 498438F71E83037800A7A322 /* Build configuration list for PBXNativeTarget "ClickUITests" */;
+			buildConfigurationList = 498438F71E83037800A7A322 /* Build configuration list for PBXNativeTarget "Ninja WarsUITests" */;
 			buildPhases = (
 				498438E41E83037800A7A322 /* Sources */,
 				498438E51E83037800A7A322 /* Frameworks */,
@@ -185,9 +182,9 @@
 			dependencies = (
 				498438EA1E83037800A7A322 /* PBXTargetDependency */,
 			);
-			name = ClickUITests;
+			name = "Ninja WarsUITests";
 			productName = ClickUITests;
-			productReference = 498438E81E83037800A7A322 /* ClickUITests.xctest */;
+			productReference = 498438E81E83037800A7A322 /* Ninja WarsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -216,7 +213,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 498438BE1E83037700A7A322 /* Build configuration list for PBXProject "Click" */;
+			buildConfigurationList = 498438BE1E83037700A7A322 /* Build configuration list for PBXProject "Ninja Wars" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -229,9 +226,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				498438C21E83037700A7A322 /* Click */,
-				498438DC1E83037800A7A322 /* ClickTests */,
-				498438E71E83037800A7A322 /* ClickUITests */,
+				498438C21E83037700A7A322 /* Ninja Wars */,
+				498438DC1E83037800A7A322 /* Ninja WarsTests */,
+				498438E71E83037800A7A322 /* Ninja WarsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -242,10 +239,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				498438D21E83037700A7A322 /* Main.storyboard in Resources */,
-				498438C91E83037700A7A322 /* GameScene.sks in Resources */,
 				498438D41E83037700A7A322 /* Assets.xcassets in Resources */,
 				498438D71E83037700A7A322 /* LaunchScreen.storyboard in Resources */,
-				498438CB1E83037700A7A322 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,8 +265,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				498438CD1E83037700A7A322 /* GameScene.swift in Sources */,
+				498438FD1E83083B00A7A322 /* GameScene.swift in Sources */,
 				498438CF1E83037700A7A322 /* GameViewController.swift in Sources */,
+				496AEE351E83402D00416CFA /* GameOverScene.swift in Sources */,
 				498438C71E83037700A7A322 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,12 +293,12 @@
 /* Begin PBXTargetDependency section */
 		498438DF1E83037800A7A322 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 498438C21E83037700A7A322 /* Click */;
+			target = 498438C21E83037700A7A322 /* Ninja Wars */;
 			targetProxy = 498438DE1E83037800A7A322 /* PBXContainerItemProxy */;
 		};
 		498438EA1E83037800A7A322 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 498438C21E83037700A7A322 /* Click */;
+			target = 498438C21E83037700A7A322 /* Ninja Wars */;
 			targetProxy = 498438E91E83037800A7A322 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -427,6 +423,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.IronDeskGames.Click;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -439,6 +436,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.IronDeskGames.Click;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -452,7 +450,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.IronDeskGames.ClickTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Click.app/Click";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ninja Wars.app/Ninja Wars";
 			};
 			name = Debug;
 		};
@@ -466,7 +464,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.IronDeskGames.ClickTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Click.app/Click";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Ninja Wars.app/Ninja Wars";
 			};
 			name = Release;
 		};
@@ -499,7 +497,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		498438BE1E83037700A7A322 /* Build configuration list for PBXProject "Click" */ = {
+		498438BE1E83037700A7A322 /* Build configuration list for PBXProject "Ninja Wars" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				498438EF1E83037800A7A322 /* Debug */,
@@ -508,29 +506,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		498438F11E83037800A7A322 /* Build configuration list for PBXNativeTarget "Click" */ = {
+		498438F11E83037800A7A322 /* Build configuration list for PBXNativeTarget "Ninja Wars" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				498438F21E83037800A7A322 /* Debug */,
 				498438F31E83037800A7A322 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		498438F41E83037800A7A322 /* Build configuration list for PBXNativeTarget "ClickTests" */ = {
+		498438F41E83037800A7A322 /* Build configuration list for PBXNativeTarget "Ninja WarsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				498438F51E83037800A7A322 /* Debug */,
 				498438F61E83037800A7A322 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		498438F71E83037800A7A322 /* Build configuration list for PBXNativeTarget "ClickUITests" */ = {
+		498438F71E83037800A7A322 /* Build configuration list for PBXNativeTarget "Ninja WarsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				498438F81E83037800A7A322 /* Debug */,
 				498438F91E83037800A7A322 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
